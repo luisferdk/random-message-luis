@@ -1,7 +1,7 @@
 {
   "name": "random-message-luis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,15 @@
   "author": "luisferdk <luisdk.03@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-message": "./bin/global.js"
+    "random-message": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisferdk/random-message-luis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisferdk/random-message-luis/issues"
+  },
+  "homepage": "https://github.com/luisferdk/random-message-luis#readme"
 }
