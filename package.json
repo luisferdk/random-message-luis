@@ -1,0 +1,16 @@
+{
+  "name": "random-message-luis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "luisferdk <luisdk.03@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-message": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
